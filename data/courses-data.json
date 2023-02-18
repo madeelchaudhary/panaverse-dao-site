@@ -1,0 +1,60 @@
+[
+  {
+    "img": "/images/courses/web3_meta.jpg",
+    "title": "Web 3.0 and Metaverse Developer: Blockchain, DAOs, DAPPs and more",
+    "desc": "Learn all about web3 and metaverse the future of the web! This is a comprehensive course that teaches you the core concepts of blockchain technology, as well as how to apply them to build decentralized applications (DApps) and deploying smart contracts.",
+    "link": "/courses/web3-and-metaverse",
+    "slug": "web3-and-metaverse",
+    "duration": "1 Year",
+    "lessons": "250+ Lessons",
+    "learningCurve": "Beginner",
+    "isFeatured": true
+  },
+  {
+    "img": "/images/courses/ai.jpg",
+    "title": "Artificial Intelligence Specialization: Data Science and Machine Learning",
+    "desc": "Our Artificial Intelligence course is designed to teach beginner and intermediate learners how AI works and how it can be applied in the real world. We cover topics such as machine learning, deep learning, neural networks and more.",
+    "link": "",
+    "duration": "1 Year",
+    "lessons": "250+ Lessons",
+    "learningCurve": "Intermediate",
+    "isFeatured": true
+  },
+  {
+    "img": "/images/courses/cloud.jpg",
+    "title": "Cloud Native Computing Foundation: Architecture and Development",
+    "desc": "The cloud native course is designed to provide an overview of the concepts, technologies and tools required to build contemporary cloud-based systems. You will learn how to build distributed systems, deploy microservices on Kubernetes and develop web apps.",
+    "link": "",
+    "duration": "1 Year",
+    "lessons": "250+ Lessons",
+    "learningCurve": "Beginner",
+    "isFeatured": true
+  },
+  {
+    "img": "/images/courses/iot_ambient.jpg",
+    "title": "Ambient Computing and IoT: Intelligence, Smart technologies, and more",
+    "desc": "This course will cover topics such as IoT architecture, security, privacy, interoperability and more. We'll learn about cloud storage and processing, geolocation data collection as well as building more complex applications like smart home systems and other types of sensors.",
+    "link": "",
+    "duration": "1 Year",
+    "lessons": "250+ Lessons",
+    "learningCurve": "Advanced"
+  },
+  {
+    "img": "/images/courses/genomics.jpg",
+    "title": "Genomics and Bioinformatics Specialization",
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni perferendis veniam eum dignissimos ab exercitationem quibusdam vero culpa et quae similique eaque cupiditate similique eaque cupiditate, repudiandae sint quo at eos aliquam. Lorem ipsum dolor sit amet consectetur, adipisicing elit similique eaque cupiditate.",
+    "link": "",
+    "duration": "1 Year",
+    "lessons": "250+ Lessons",
+    "learningCurve": "Advanced"
+  },
+  {
+    "img": "/images/courses/networking.jpg",
+    "title": "Network Programmability and Automation",
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni perferendis veniam eum dignissimos ab exercitationem quibusdam vero culpa et quae similique eaque cupiditate similique eaque cupiditate, repudiandae sint quo at eos aliquam. Lorem ipsum dolor sit amet consectetur, adipisicing elit similique eaque cupiditate.",
+    "link": "",
+    "duration": "1 Year",
+    "lessons": "250+ Lessons",
+    "learningCurve": "Intermediate"
+  }
+]
